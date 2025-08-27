@@ -12,3 +12,9 @@
 子agent-MythBuster-prompt.md：子agent-MythBuster的prompt
 
 子agent-OneClickService-prompt.md：子agent-OneClickService的prompt
+
+知识库-日常应用功能详细使用文档_.pdf：常用app应用的资料知识库
+
+知识库-老人资料汇总.pdf：与老人相关的资料知识库，如健康，养生等
+
+知识库-老年人防诈骗攻略汇总_.pdf：与防诈骗相关的资料知识库
